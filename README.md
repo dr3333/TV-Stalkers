@@ -1,6 +1,6 @@
 # TV Stalkers
 #### Video Demo: https://youtu.be/Y6D1saCI6J0
-#### Description: A PySimpleGUI application that uses a third party API (Episodate.com) to get data on tv shows.
+#### Description: An application that uses a third party API to get data on tv shows.
 #### data.json file:
 ##### This is used to store tv shows information
 #### helpers.py file:
